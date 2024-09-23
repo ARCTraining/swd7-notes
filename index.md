@@ -1,5 +1,7 @@
 # Introduction to Data Visualisation, with Python
 
+[![DOI](https://zenodo.org/badge/57332436.svg)](https://zenodo.org/doi/10.5281/zenodo.6417585)
+
 This course is designed to introduce concepts relating to good data visualisation, utilising packages available for Python.
 
 This course should be useful for anyone who works with data and needs to visualise results. While the term “scientific data visualisation” is used in this documentation due to the sources we have collated, the subject matter and example datasets should be applicable to wider research areas than STEM.
