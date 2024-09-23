@@ -14,38 +14,37 @@ Each notebook in this section has a download arrow on the top right of the page,
 
 #### Introduction notebook
 
-<a target="_blank" href="https://colab.research.google.com/github/murphyqm/key-data-vis-requirements/blob/main/docs/nbs/01_datavis_exercises.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/ARCTraining/swd7-notes/blob/main/docs/nbs/01_datavis_exercise_v2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 #### Exploratory data vis
 
-<a target="_blank" href="https://colab.research.google.com/github/murphyqm/key-data-vis-requirements/blob/main/other-nbs/01b_datavis_solutions.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/ARCTraining/swd7-notes/blob/main/other-nbs/01b_datavis_solutions.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 
 ### Session 2: Leveraging external libraries
 
-<a target="_blank" href="https://colab.research.google.com/github/murphyqm/key-data-vis-requirements/blob/main/docs/nbs/02_datavis_exercise.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/ARCTraining/swd7-notes/blob/main/docs/nbs/02_datavis_exercise.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 ### Session 3: Composition of multi-panel and gridded plots
 
-<a target="_blank" href="https://colab.research.google.com/github/murphyqm/key-data-vis-requirements/blob/main/docs/nbs/03_datavis_exercise.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/ARCTraining/swd7-notes/blob/main/docs/nbs/03_datavis_exercise.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 ### Session 4: Exploring heatmaps and legends
 
-<a target="_blank" href="https://colab.research.google.com/github/murphyqm/key-data-vis-requirements/blob/main/docs/nbs/04_datavis_exercise.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/ARCTraining/swd7-notes/blob/main/docs/nbs/04_datavis_exercise.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 ### Session 5: Exploring a dataset
 
-<a target="_blank" href="https://colab.research.google.com/github/murphyqm/key-data-vis-requirements/blob/main/docs/nbs/05_datavis_exercise.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/ARCTraining/swd7-notes/blob/main/docs/nbs/05_datavis_exercise.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-
