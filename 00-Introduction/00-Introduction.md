@@ -13,3 +13,66 @@ Choosing the type of plot to use to represent your data is not something obvious
 
 <iframe src="https://docs.google.com/presentation/d/10vV4Bbd17_VfEufDHLdsKjxlRFSLj-y5ebtsKcRLD54/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+# Sources and inspiration
+
+A number of fantastic articles went into this resource. Please read these works: the content shared here is a much-abridged, simplified, shortened version of the content shared in the articles below.
+
+
+#### Bibliography
+
+Berinato, Scott. 2016. “Visualizations That Really Work.” Harvard Business Review, June 1, 2016. https://hbr.org/2016/06/visualizations-that-really-work.
+
+Franconeri, Steven L., Lace M. Padilla, Priti Shah, Jeffrey M. Zacks, and Jessica Hullman. 2021. “The Science of Visual Data Communication: What Works.” Psychological Science in the Public Interest: A Journal of the American Psychological Society 22 (3): 110–61.
+
+Kelleher, Christa, and Thorsten Wagener. 2011. “Ten Guidelines for Effective Data Visualization in Scientific Publications.” Environmental Modelling & Software: With Environment Data News 26 (6): 822–27.
+
+Midway, Stephen R. 2020. “Principles of Effective Data Visualization.” Patterns (New York, N.Y.) 1 (9): 100141.
+
+Rougier, Nicolas P., Michael Droettboom, and Philip E. Bourne. 2014. “Ten Simple Rules for Better Figures.” PLoS Computational Biology 10 (9): e1003833.
+
+
+#### Other resources
+
+- [Berkeley Library Data Visualisation library guide](https://guides.lib.berkeley.edu/data-visualization/about)
+- [Tableau documentation: Visual Best Practices](https://help.tableau.com/current/blueprint/en-us/bp_visual_best_practices.htm)
+- [from Data to Viz project](https://www.data-to-viz.com/)
+- [Principles of Data Visualization workshop notes](https://ucdavisdatalab.github.io/workshop_data_viz_principles/)
+- [What’s visual ‘encoding’ in data viz, and why is it important?](https://medium.com/@sophiewarnes/whats-visual-encoding-in-data-viz-and-why-is-it-important-7406bc88b4b4#:~:text=Encoding%20in%20data%20viz%20basically,trying%20to%20say%20or%20show.)
+- [University of Utah visualization design lab](https://vdl.sci.utah.edu/)
+
+## Packages used
+
+#### matplotlib
+![matplotlib logo](https://matplotlib.org/stable/_static/logo_dark.svg)
+
+J. D. Hunter, "Matplotlib: A 2D Graphics Environment", Computing in Science & Engineering, vol. 9, no. 3, pp. 90-95, 2007.
+
+#### seaborn
+
+![seaborn logo](https://seaborn.pydata.org/_images/logo-wide-lightbg.svg)
+
+Waskom, M. L., (2021). seaborn: statistical data visualization. Journal of Open Source Software, 6(60), 3021, https://doi.org/10.21105/joss.03021.
+
+#### Plotly
+
+![Plotly logo](https://plotly.com/all_static/images/graphing_library_dark.svg)
+
+Plotly Technologies Inc. Collaborative data science. Montréal, QC, 2015. https://plot.ly.
+
+#### Streamlit
+
+![streamlit logo](https://docs.streamlit.io/logo.svg)
+
+Streamlit documentation, https://docs.streamlit.io/ 
+
+#### NumPy
+
+![numpy logo](https://numpy.org/images/logo.svg)
+
+Harris, C.R., Millman, K.J., van der Walt, S.J. et al. Array programming with NumPy. Nature 585, 357–362 (2020). DOI: 10.1038/s41586-020-2649-2.
+
+### pandas
+
+![pandas logo](https://pandas.pydata.org/static/img/pandas.svg)
+
+Data structures for statistical computing in python, McKinney, Proceedings of the 9th Python in Science Conference, Volume 445, 2010.
